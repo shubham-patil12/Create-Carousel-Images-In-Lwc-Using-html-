@@ -1,0 +1,32 @@
+<template>
+    <lightning-carousel>
+        <lightning-carousel-image 
+        src = "https://www.livemint.com/lm-img/img/2023/05/24/600x338/COVID19_share_1675338084434_1684918026630.jpg"
+        header = "Covid 19"
+        description="Covid Emergency"
+        alternative-text="Danger"
+        href="https://en.wikipedia.org/wiki/COVID-19"
+        
+        >
+        </lightning-carousel-image>
+
+        <lightning-carousel-image 
+        src = "https://www.nfid.org/wp-content/uploads/bb-plugin/cache/Coronavirus-panorama-360955692d38b15a32de9610d01a1a10-ifmulep01ros.png"
+        description="Covid Emergency"
+        alternative-text="Danger"
+        href="https://en.wikipedia.org/wiki/COVID-19"
+        
+        >
+        </lightning-carousel-image>
+
+        <lightning-carousel-image 
+        src = "https://s3-ap-south-1.amazonaws.com/ricedigitals3bucket/AUPortalContent/2021/06/17130735/Untitled-design-48.png"
+        header = "Covid 19"
+        description="Covid Emergency"
+        alternative-text="Danger"
+        href="https://en.wikipedia.org/wiki/COVID-19"
+        
+        >
+        </lightning-carousel-image>
+    </lightning-carousel>
+</template>
